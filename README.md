@@ -4,4 +4,5 @@
 - The feature used in the model is filter banks.
 - To run the model, we used 10-fold cross validation with one-vs-one and one-vs-all methods. Two steps (feature selection and classification) were combined in the classification functions.
 Note: 
+  
   Dataset IIa: https://bnci-horizon-2020.eu/database/data-sets
