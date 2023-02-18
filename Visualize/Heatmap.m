@@ -1,12 +1,3 @@
-%% Test heatmap
-% load patients
-% tbl = table(LastName,Age,Gender,SelfAssessedHealthStatus,...
-%     Smoker,Weight,Location);
-% h = heatmap(tbl,'Smoker','SelfAssessedHealthStatus');
-% figure
-% cdata = [45 60 32; 43 54 76; 32 94 68; 23 95 58];
-% h = heatmap(cdata);
-%%
 clearvars -except CASE DFBCSP_Fisher DFBCSP_FmRmR DFBCSP_mRmR FBCSP filename idname method path
 clc
 %% Check folder
